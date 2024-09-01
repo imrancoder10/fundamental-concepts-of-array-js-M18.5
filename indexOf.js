@@ -3,3 +3,4 @@ const friends = ['Amena', 'Kamena', 'Jamena', 'Pabena', 'Nibena'];
 
 console.log(friends.indexOf('Kamena')); // 1
 console.log(friends.indexOf('kamena')); // -1
+console.log(friends.indexOf('Jamena')); // 2
