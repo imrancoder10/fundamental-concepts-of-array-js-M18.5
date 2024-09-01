@@ -3,7 +3,7 @@ const friends = ['Ruma', 'Rema', 'Rana', 'Raju'];
 console.log(friends.includes('Rema')); //true
 console.log(friends.includes('rema')); //false
 
-// if else condition
+// if else condition by true and false 
 if(friends.includes('Ruma')){
     console.log('Will be Going On Party.....');
 }
